@@ -5,6 +5,7 @@ import timerRoutes from "./routes/timer.routes.js";
 import cors from "cors";
 
 dotenv.config();
+
 connectDB();
 
 const app = express();
