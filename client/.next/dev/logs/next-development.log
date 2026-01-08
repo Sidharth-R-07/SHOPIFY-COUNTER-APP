@@ -1,0 +1,3394 @@
+[00:00:01.351] Server  LOG     ✓ Ready in 960ms
+[00:00:02.412] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:07.363] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:17.763] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:01.662] Server  LOG     ✓ Compiled in 434ms
+[00:05:51.356] Server  LOG     ✓ Compiled in 76ms
+[00:05:51.628] Server  LOG     ✓ Compiled in 59ms
+[00:05:52.593] Server  LOG     ✓ Compiled in 67ms
+[00:05:53.465] Server  LOG     ✓ Compiled in 56ms
+[00:06:02.306] Server  LOG     ✓ Compiled in 47ms
+[00:06:05.440] Server  LOG     ✓ Compiled in 30ms
+[00:06:05.487] Server  LOG     ✓ Compiled in 28ms
+[00:06:14.392] Server  LOG     ✓ Compiled in 24ms
+[00:06:29.782] Server  LOG     ✓ Compiled in 23ms
+[00:08:29.225] Server  LOG     ✓ Compiled in 40ms
+[00:08:33.806] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.807] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.821] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.822] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.823] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.824] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.825] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.825] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.826] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.827] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.829] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.829] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.830] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.831] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.832] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.833] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:33.866] Server  LOG     ✓ Compiled in 249ms
+[00:08:34.062] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:08:37.705] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.707] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.708] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.708] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.709] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.711] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.712] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.713] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.714] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.715] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.716] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.717] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.718] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.719] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:08:37.743] Server  LOG     ✓ Compiled in 24ms
+[00:08:38.061] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:08:38.061] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:13.303] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.304] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.305] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.305] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.306] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.308] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.309] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.310] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.312] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.312] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.314] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:13.314] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:09:14.061] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:09:17.062] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:11.889] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.890] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.891] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.891] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.892] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.894] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.895] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.895] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.897] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.897] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.899] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.899] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.900] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.901] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:11.930] Server  LOG     ✓ Compiled in 28ms
+[00:12:12.059] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:12.231] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.233] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.235] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.236] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.238] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.239] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.241] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.242] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.245] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.246] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.248] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.249] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.250] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.252] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:12.278] Server  LOG     ✓ Compiled in 47ms
+[00:12:13.056] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:12:15.518] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.519] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.520] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.521] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.522] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.523] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.524] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.526] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.527] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.529] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.532] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:15.533] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:12:16.061] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:04.103] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.104] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.105] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.107] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.108] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.109] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.110] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.112] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.113] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.115] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.116] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.117] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.118] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.118] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:04.140] Server  LOG     ✓ Compiled in 26ms
+[00:13:05.062] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:05.949] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.950] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.951] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.952] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.953] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.954] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.955] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.955] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.956] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.957] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.958] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:05.959] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:07.061] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:35.091] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:35.398] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:35.529] Browser ERROR   uncaughtError: Error: ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:36.797] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:36.797] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:50.061] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:55.742] Server  ERROR   ⨯ ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:55.851] Browser ERROR   uncaughtError: Error: ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:13:56.040] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:13:56.040] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:14:32.071] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:14:53.067] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:14:53.067] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:14:54.071] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:12.058] Browser ERROR   ./shopify_counter_app/client/app/providers.jsx:5:1
+Module not found: Can't resolve '../styles/globals.css'
+  3 | import { AppProvider } from "@shopify/polaris";
+  4 | import "@shopify/polaris/build/esm/styles.css";
+> 5 | import "../styles/globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | export default function Providers({ children }) {
+  8 |   return <AppProvider>{children}</AppProvider>;
+
+Import traces:
+  Client Component Browser:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Client Component Browser]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./shopify_counter_app/client/app/providers.jsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Client Component SSR]
+    ./shopify_counter_app/client/app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
