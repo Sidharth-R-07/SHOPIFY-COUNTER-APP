@@ -2,11 +2,21 @@ import express from "express";
 import dotenv from "dotenv";
 import connectDB from "./config/db.js";
 import timerRoutes from "./routes/timer.routes.js";
+import cors from "cors";
 
 dotenv.config();
+
 connectDB();
 
 const app = express();
+
+app.use(
+  cors({
+    origin: ["http://localhost:3000"],
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true,
+  })
+);
 
 // Middleware
 app.use(express.json());
